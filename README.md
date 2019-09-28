@@ -1,2 +1,3 @@
 # mikonet
-# lil quick botnet in Python
+- lil quick botnet in Python
+- no dependencies
